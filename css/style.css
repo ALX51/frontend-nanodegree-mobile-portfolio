@@ -21,7 +21,7 @@ html {
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 
-body { margin: 0; font-size: 14px; line-height: 1.61; font-weight: 400; }
+body { margin: 0; font-size: 14px; line-height: 1.61; font-weight: 400; background: #fff;}
 body, button, input, select, textarea { font-family: 'Open Sans', sans-serif; color: #333; }
 
 a { color: #12C; }
@@ -34,7 +34,7 @@ pre, code { font-family: monospace, monospace; font-size: 1em; }
 ul, ol { margin: 1em 0; padding: 0 0 0 20px; }
 img { border: 0; max-width: 100%; }
 
-body { background: #fff; }
+
 header, footer, .container { max-width: 45em; margin: 0 auto; }
 
 
